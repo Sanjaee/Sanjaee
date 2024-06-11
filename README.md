@@ -7,13 +7,11 @@
 
 - 👨‍💻 All of my projects are available at [https://ui-tokopedia.vercel.app/)
 
-- 📝 I regularly write articles on [https://portfolio-v3-five-nu.vercel.app/](https://portfolio-v3-five-nu.vercel.app/)
-
 - 💬 Ask me about **PERN , Frontend, backend**
 
 - 📫 How to reach me **afrizaahmad18@gmail.com**
 
-- 📄 Know about my experiences [https://portfolio-v3-five-nu.vercel.app/](https://portfolio-v3-five-nu.vercel.app/)
+- 📄 Know about my experiences [https://porfoliov6.vercel.app/](https://porfoliov6.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
