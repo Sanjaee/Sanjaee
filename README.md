@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js React Node.js**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-v3-five-nu.vercel.app/](https://portfolio-v3-five-nu.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://ui-tokopedia.vercel.app/)
 
 - 📝 I regularly write articles on [https://portfolio-v3-five-nu.vercel.app/](https://portfolio-v3-five-nu.vercel.app/)
 
