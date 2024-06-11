@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjaee&label=Profile%20views&color=0e75b6&style=flat" alt="sanjaee" /> </p>
 
-- 🔭 I’m currently working on [web-kontrakan](https://web-kontrakan.vercel.app/)
-
 - 🌱 I’m currently learning **Next.js React Node.js**
-
-- 👯 I’m looking to collaborate on [EZAStore](https://ezastore.vercel.app/)
-
-- 🤝 I’m looking for help with [AI With Express.js](https://ui-ai-rosy.vercel.app/)
 
 - 👨‍💻 All of my projects are available at [https://portfolio-v3-five-nu.vercel.app/](https://portfolio-v3-five-nu.vercel.app/)
 
